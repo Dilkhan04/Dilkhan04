@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! My name is Dilkhan<br>Front-End developer<br>🌍 I'm based in Bishkek
+Front-End developer
 
 
 ## 🌐 Socials:
